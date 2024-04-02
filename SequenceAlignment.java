@@ -1,9 +1,3 @@
-/* Iliya Klishin
- * Dr. Steinberg
- * COP3503 Summer 2022
- * Programming Assignment 4
- */
- 
  import java.util.HashSet;
  
  public class SequenceAlignment
